@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemilrajpura-simform
 - 👀 I’m interested in JavaScript Frameworks
-- 🌱 I’m currently learning ReactJS
+- 🌱 currently exploring Backend Technologies
 - 💞️  any freelance work? do reach :)
 - 📫 iamhemilsoni@gmail.com
 
